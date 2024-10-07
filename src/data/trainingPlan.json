@@ -10,8 +10,8 @@
           "ejercicios": [
             {
               "nombre": "Saltos con cuerda",
-              "duracion": 1,
-              "serie": 3,
+              "duracion": "2 minutos",
+              "serie": 5,
               "repeticion": 0,
               "descanso": 30,
               "imagen": "https://images.vexels.com/content/138125/preview/jump-rope-shape-exercise-277321.png"
