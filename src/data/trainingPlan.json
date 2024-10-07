@@ -1,0 +1,956 @@
+{
+  "semanas": [
+    {
+      "semana": 1,
+      "dias": [
+        {
+          "dia": 1,
+          "actividad": "Full Body + Cardio",
+          "duracion": "45-50 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Saltos con cuerda",
+              "duracion": 1,
+              "serie": 3,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://images.vexels.com/content/138125/preview/jump-rope-shape-exercise-277321.png"
+            },
+            {
+              "nombre": "Sentadillas",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Goblet-Squat_600x600.png?v=1612049778"
+            },
+            {
+              "nombre": "Flexiones de pecho",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 10,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Push-Ups_600x600.png?v=1640121436"
+            },
+            {
+              "nombre": "Puente de glúteos",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 20,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Bodyweight-Glute-Bridge_600x600.png?v=1655224288"
+            },
+            {
+              "nombre": "Remo Inclinado",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 12,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Bent-Over-Rows_600x600.png?v=1619977463"
+            },
+            {
+              "nombre": "Plancha abdominal",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Plank_3a82d566-9cb2-4c20-b301-bc8bd635c4d1_600x600.png?v=1612138431"
+            }
+          ]
+        },
+        {
+          "dia": 2,
+          "actividad": "Core + Resistencia",
+          "duracion": "40-45 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Plancha lateral",
+              "duracion": 30,
+              "serie": 3,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.entrenamientos.com/uploads/exercise/flexion-brazos-y-plancha-lateral-init-pos-8695.png"
+            },
+            {
+              "nombre": "Crunches",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 20,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Crunch_f3498d5d-82d9-4a7f-8dee-98a2e55a62f2_600x600.png?v=1612138317"
+            },
+            {
+              "nombre": "Bicicleta en el suelo",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://i0.wp.com/blog.smartfit.com.mx/wp-content/uploads/2021/12/Smartfit-bycicle-cruches-1-1.png?resize=506%2C512&ssl=1"
+            }
+          ]
+        },
+        {
+          "dia": 3,
+          "actividad": "Full Body + Cardio",
+          "duracion": "45-50 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Burpees",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 10,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Burpees_600x600.png?v=1640121232"
+            },
+            {
+              "nombre": "Flexion de hombros",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 12,
+              "descanso": 30,
+              "imagen": "https://aprendeconreyhan.org/wp-content/uploads/2021/04/35-4-300x129.png"
+            },
+            {
+              "nombre": "Zancadas",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 10,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Lunge_600x600.png?v=1612138903"
+            },
+            {
+              "nombre": "Plancha",
+              "duracion": 30,
+              "serie": 3,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Plank_3a82d566-9cb2-4c20-b301-bc8bd635c4d1_600x600.png?v=1612138431"
+            }
+          ]
+        },
+        {
+          "dia": 4,
+          "actividad": "Piernas y Pantorrillas",
+          "duracion": "40-45 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con peso",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 12,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Goblet-Squat_600x600.png?v=1612049778"
+            },
+            {
+              "nombre": "Elevaciones de talón",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://lyfta.app/images/exercises/13721101.png"
+            },
+            {
+              "nombre": "Sentadilla cerrada",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 10,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Front-Squat_600x600.png?v=1612049397"
+            }
+          ]
+        },
+        {
+          "dia": 5,
+          "actividad": "Circuito Full Body",
+          "duracion": "40-45 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Jumping Jacks",
+              "duracion": 1,
+              "serie": 3,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://fitwill.app/api/image/3094?p=1&w=1024&h=1024"
+            },
+            {
+              "nombre": "Mountain Climbers",
+              "duracion": 1,
+              "serie": 3,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://training.fit/wp-content/uploads/2020/03/bergsteiger-fitnessband.png"
+            },
+            {
+              "nombre": "Flexiones de tríceps",
+              "duracion": 0,
+              "serie": 3,
+              "repeticion": 10,
+              "descanso": 30,
+              "imagen": "https://apilyfta.com/static/GymvisualPNG/02831101-Diamond-Push-up_Upper-Arms-FIX_small.png"
+            }
+          ]
+        },
+        {
+          "dia": 6,
+          "actividad": "Trote/Correr",
+          "duracion": "30-40 minutos",
+          "ejercicios": [
+                       {
+              "nombre": "Calentamiento",
+              "duracion": 5,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F34611101.png&w=3840&q=20"
+            },
+            {
+              "nombre": "Trote/Correr",
+              "duracion": 30,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://images.vexels.com/content/138213/preview/running-sprint-76aa19.png"
+            },
+              {
+              "nombre": "Enfriamiento y Estiramiento",
+              "duracion": 5,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F19401101.png&w=640&q=10"
+            }
+          ]
+        },
+        {
+          "dia": 7,
+          "actividad": "Descansar/meditación",
+          "duracion": "1 dia",
+          "ejercicios": [
+            {
+              "nombre": "Descansar",
+              "duracion": 0,
+              "serie":0,
+              "repeticion": 0,
+              "descanso": 0,
+              "imagen": "https://cdn.icon-icons.com/icons2/2237/PNG/512/bed_rest_sleep_sick_patient_bed_rest_icon_134759.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 2,
+      "dias": [
+        {
+          "dia": 8,
+          "actividad": "Full Body + Cardio",
+          "duracion": "45-50 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Saltos con cuerda",
+              "duracion": 1,
+              "serie": 4,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://images.vexels.com/content/138125/preview/jump-rope-shape-exercise-277321.png"
+            },
+            {
+              "nombre": "Sentadillas",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Goblet-Squat_600x600.png?v=1612049778"
+            },
+            {
+              "nombre": "Flexiones de pecho",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 12,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Push-Ups_600x600.png?v=1640121436"
+            },
+            {
+              "nombre": "Puente de glúteos",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 20,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Bodyweight-Glute-Bridge_600x600.png?v=1655224288"
+            },
+            {
+              "nombre": "Remo Inclinado",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 12,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Bent-Over-Rows_600x600.png?v=1619977463"
+            },
+            {
+              "nombre": "Plancha abdominal",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Plank_3a82d566-9cb2-4c20-b301-bc8bd635c4d1_600x600.png?v=1612138431"
+            }
+          ]
+        },
+        {
+          "dia": 9,
+          "actividad": "Core + Resistencia",
+          "duracion": "40-45 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Plancha lateral",
+              "duracion": 30,
+              "serie": 4,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.entrenamientos.com/uploads/exercise/flexion-brazos-y-plancha-lateral-init-pos-8695.png"
+            },
+            {
+              "nombre": "Crunches",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 25,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Crunch_f3498d5d-82d9-4a7f-8dee-98a2e55a62f2_600x600.png?v=1612138317"
+            },
+            {
+              "nombre": "Bicicleta en el suelo",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 20,
+              "descanso": 30,
+              "imagen": "https://i0.wp.com/blog.smartfit.com.mx/wp-content/uploads/2021/12/Smartfit-bycicle-cruches-1-1.png?resize=506%2C512&ssl=1"
+            }
+          ]
+        },
+        {
+          "dia": 10,
+          "actividad": "Full Body + Cardio",
+          "duracion": "45-50 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Burpees",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 12,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Burpees_600x600.png?v=1640121232"
+            },
+            {
+              "nombre": "Flexion de hombros",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 12,
+              "descanso": 30,
+              "imagen": "https://aprendeconreyhan.org/wp-content/uploads/2021/04/35-4-300x129.png"
+            },
+            {
+              "nombre": "Zancadas",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 12,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Lunge_600x600.png?v=1612138903"
+            },
+            {
+              "nombre": "Plancha",
+              "duracion": 30,
+              "serie": 4,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Plank_3a82d566-9cb2-4c20-b301-bc8bd635c4d1_600x600.png?v=1612138431"
+            }
+          ]
+        },
+        {
+          "dia": 11,
+          "actividad": "Piernas y Pantorrillas",
+          "duracion": "40-45 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con peso",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Goblet-Squat_600x600.png?v=1612049778"
+            },
+            {
+              "nombre": "Elevaciones de talón",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 20,
+              "descanso": 30,
+              "imagen": "https://lyfta.app/images/exercises/13721101.png"
+            },
+            {
+              "nombre": "Sentadilla cerrada",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 12,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Front-Squat_600x600.png?v=1612049397"
+            }
+          ]
+        },
+        {
+          "dia": 12,
+          "actividad": "Circuito Full Body",
+          "duracion": "40-45 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Jumping Jacks",
+              "duracion": 1,
+              "serie": 4,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://fitwill.app/api/image/3094?p=1&w=1024&h=1024"
+            },
+            {
+              "nombre": "Mountain Climbers",
+              "duracion": 1,
+              "serie": 4,
+              "repeticion": 20,
+              "descanso": 30,
+              "imagen": "https://training.fit/wp-content/uploads/2020/03/bergsteiger-fitnessband.png"
+            },
+            {
+              "nombre": "Flexiones de tríceps",
+              "duracion": 0,
+              "serie": 4,
+              "repeticion": 12,
+              "descanso": 30,
+              "imagen": "https://apilyfta.com/static/GymvisualPNG/02831101-Diamond-Push-up_Upper-Arms-FIX_small.png"
+            }
+          ]
+        },
+        {
+          "dia": 13,
+          "actividad": "Trote/Correr",
+          "duracion": "30-40 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento",
+              "duracion": 5,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F34611101.png&w=3840&q=20"
+            },
+            {
+              "nombre": "Trote/Correr",
+              "duracion": 30,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://images.vexels.com/content/138213/preview/running-sprint-76aa19.png"
+            },
+              {
+              "nombre": "Enfriamiento y Estiramiento",
+              "duracion": 5,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F19401101.png&w=640&q=10"
+            }
+          ]
+        },
+        {
+          "dia": 14,
+          "actividad": "Descansar/meditación",
+          "duracion": "1 dia",
+          "ejercicios": [
+            {
+              "nombre": "Descansar",
+              "duracion": 0,
+              "serie":0,
+              "repeticion": 0,
+              "descanso": 0,
+              "imagen": "https://cdn.icon-icons.com/icons2/2237/PNG/512/bed_rest_sleep_sick_patient_bed_rest_icon_134759.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 3,
+      "dias": [
+        {
+          "dia": 15,
+          "actividad": "Full Body + Cardio",
+          "duracion": "50-55 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Saltos con cuerda",
+              "duracion": 1,
+              "serie": 5,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://images.vexels.com/content/138125/preview/jump-rope-shape-exercise-277321.png"
+            },
+            {
+              "nombre": "Sentadillas",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 20,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Goblet-Squat_600x600.png?v=1612049778"
+            },
+            {
+              "nombre": "Flexiones de pecho",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Push-Ups_600x600.png?v=1640121436"
+            },
+            {
+              "nombre": "Puente de glúteos",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 25,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Bodyweight-Glute-Bridge_600x600.png?v=1655224288"
+            },
+            {
+              "nombre": "Remo Inclinado",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Bent-Over-Rows_600x600.png?v=1619977463"
+            },
+            {
+              "nombre": "Plancha abdominal",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Plank_3a82d566-9cb2-4c20-b301-bc8bd635c4d1_600x600.png?v=1612138431"
+            }
+          ]
+        },
+        {
+          "dia": 16,
+          "actividad": "Core + Resistencia",
+          "duracion": "45-50 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Plancha lateral",
+              "duracion": 30,
+              "serie": 5,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.entrenamientos.com/uploads/exercise/flexion-brazos-y-plancha-lateral-init-pos-8695.png"
+            },
+            {
+              "nombre": "Crunches",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 30,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Crunch_f3498d5d-82d9-4a7f-8dee-98a2e55a62f2_600x600.png?v=1612138317"
+            },
+            {
+              "nombre": "Bicicleta en el suelo",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 25,
+              "descanso": 30,
+              "imagen": "https://i0.wp.com/blog.smartfit.com.mx/wp-content/uploads/2021/12/Smartfit-bycicle-cruches-1-1.png?resize=506%2C512&ssl=1"
+            }
+          ]
+        },
+        {
+          "dia": 17,
+          "actividad": "Full Body + Cardio",
+          "duracion": "50-55 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Burpees",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Burpees_600x600.png?v=1640121232"
+            },
+            {
+              "nombre": "Flexion de hombros",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://aprendeconreyhan.org/wp-content/uploads/2021/04/35-4-300x129.png"
+            },
+            {
+              "nombre": "Zancadas",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Lunge_600x600.png?v=1612138903"
+            },
+            {
+              "nombre": "Plancha",
+              "duracion": 30,
+              "serie": 5,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Plank_3a82d566-9cb2-4c20-b301-bc8bd635c4d1_600x600.png?v=1612138431"
+            }
+          ]
+        },
+        {
+          "dia": 18,
+          "actividad": "Piernas y Pantorrillas",
+          "duracion": "45-50 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con peso",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 20,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Goblet-Squat_600x600.png?v=1612049778"
+            },
+            {
+              "nombre": "Elevaciones de talón",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 25,
+              "descanso": 30,
+              "imagen": "https://lyfta.app/images/exercises/13721101.png"
+            },
+            {
+              "nombre": "Sentadilla cerrada",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Front-Squat_600x600.png?v=1612049397"
+            }
+          ]
+        },
+        {
+          "dia": 19,
+          "actividad": "Circuito Full Body",
+          "duracion": "45-50 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Jumping Jacks",
+              "duracion": 1,
+              "serie": 5,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://fitwill.app/api/image/3094?p=1&w=1024&h=1024"
+            },
+            {
+              "nombre": "Mountain Climbers",
+              "duracion": 1,
+              "serie": 5,
+              "repeticion": 25,
+              "descanso": 30,
+              "imagen": "https://training.fit/wp-content/uploads/2020/03/bergsteiger-fitnessband.png"
+            },
+            {
+              "nombre": "Flexiones de tríceps",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://apilyfta.com/static/GymvisualPNG/02831101-Diamond-Push-up_Upper-Arms-FIX_small.png"
+            }
+          ]
+        },
+        {
+          "dia": 20,
+          "actividad": "Trote/Correr",
+          "duracion": "30-40 minutos",
+          "ejercicios": [
+                       {
+              "nombre": "Calentamiento",
+              "duracion": 5,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F34611101.png&w=3840&q=20"
+            },
+            {
+              "nombre": "Trote/Correr",
+              "duracion": 30,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://images.vexels.com/content/138213/preview/running-sprint-76aa19.png"
+            },
+              {
+              "nombre": "Enfriamiento y Estiramiento",
+              "duracion": 5,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F19401101.png&w=640&q=10"
+            }
+          ]
+        },
+        {
+          "dia": 21,
+          "actividad": "Descansar/meditación",
+          "duracion": "1 dia",
+          "ejercicios": [
+            {
+              "nombre": "Descansar",
+              "duracion": 0,
+              "serie":0,
+              "repeticion": 0,
+              "descanso": 0,
+              "imagen": "https://cdn.icon-icons.com/icons2/2237/PNG/512/bed_rest_sleep_sick_patient_bed_rest_icon_134759.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 4,
+      "dias": [
+        {
+          "dia": 22,
+          "actividad": "Full Body + Cardio",
+          "duracion": "50-55 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Saltos con cuerda",
+              "duracion": 1,
+              "serie": 5,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://images.vexels.com/content/138125/preview/jump-rope-shape-exercise-277321.png"
+            },
+            {
+              "nombre": "Sentadillas",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 20,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Goblet-Squat_600x600.png?v=1612049778"
+            },
+            {
+              "nombre": "Flexiones de pecho",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Push-Ups_600x600.png?v=1640121436"
+            },
+            {
+              "nombre": "Puente de glúteos",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 25,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Bodyweight-Glute-Bridge_600x600.png?v=1655224288"
+            },
+            {
+              "nombre": "Remo Inclinado",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Bent-Over-Rows_600x600.png?v=1619977463"
+            },
+            {
+              "nombre": "Plancha abdominal",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Plank_3a82d566-9cb2-4c20-b301-bc8bd635c4d1_600x600.png?v=1612138431"
+            }
+          ]
+        },
+        {
+          "dia": 23,
+          "actividad": "Core + Resistencia",
+          "duracion": "50-55 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Plancha lateral",
+              "duracion": 30,
+              "serie": 5,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.entrenamientos.com/uploads/exercise/flexion-brazos-y-plancha-lateral-init-pos-8695.png"
+            },
+            {
+              "nombre": "Crunches",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 30,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Crunch_f3498d5d-82d9-4a7f-8dee-98a2e55a62f2_600x600.png?v=1612138317"
+            },
+            {
+              "nombre": "Bicicleta en el suelo",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 25,
+              "descanso": 30,
+              "imagen": "https://i0.wp.com/blog.smartfit.com.mx/wp-content/uploads/2021/12/Smartfit-bycicle-cruches-1-1.png?resize=506%2C512&ssl=1"
+            }
+          ]
+        },
+        {
+          "dia": 24,
+          "actividad": "Full Body + Cardio",
+          "duracion": "50-55 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Burpees",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Burpees_600x600.png?v=1640121232"
+            },
+            {
+              "nombre": "Flexion de hombros",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://aprendeconreyhan.org/wp-content/uploads/2021/04/35-4-300x129.png"
+            },
+            {
+              "nombre": "Zancadas",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Lunge_600x600.png?v=1612138903"
+            },
+            {
+              "nombre": "Plancha",
+              "duracion": 30,
+              "serie": 5,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Plank_3a82d566-9cb2-4c20-b301-bc8bd635c4d1_600x600.png?v=1612138431"
+            }
+          ]
+        },
+        {
+          "dia": 26,
+          "actividad": "Piernas y Pantorrillas",
+          "duracion": "50-55 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con peso",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 20,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Goblet-Squat_600x600.png?v=1612049778"
+            },
+            {
+              "nombre": "Elevaciones de talón",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 25,
+              "descanso": 30,
+              "imagen": "https://lyfta.app/images/exercises/13721101.png"
+            },
+            {
+              "nombre": "Sentadilla cerrada",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Front-Squat_600x600.png?v=1612049397"
+            }
+          ]
+        },
+        {
+          "dia": 27,
+          "actividad": "Circuito Full Body",
+          "duracion": "50-55 minutos",
+          "ejercicios": [
+            {
+              "nombre": "Jumping Jacks",
+              "duracion": 1,
+              "serie": 5,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://fitwill.app/api/image/3094?p=1&w=1024&h=1024"
+            },
+            {
+              "nombre": "Mountain Climbers",
+              "duracion": 1,
+              "serie": 5,
+              "repeticion": 30,
+              "descanso": 30,
+              "imagen": "https://training.fit/wp-content/uploads/2020/03/bergsteiger-fitnessband.png"
+            },
+            {
+              "nombre": "Flexiones de tríceps",
+              "duracion": 0,
+              "serie": 5,
+              "repeticion": 15,
+              "descanso": 30,
+              "imagen": "https://apilyfta.com/static/GymvisualPNG/02831101-Diamond-Push-up_Upper-Arms-FIX_small.png"
+            }
+          ]
+        },
+        {
+          "dia": 28,
+          "actividad": "Trote/Correr",
+          "duracion": "30-40 minutos",
+          "ejercicios": [
+                       {
+              "nombre": "Calentamiento",
+              "duracion": 5,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F34611101.png&w=3840&q=20"
+            },
+            {
+              "nombre": "Trote/Correr",
+              "duracion": 30,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://images.vexels.com/content/138213/preview/running-sprint-76aa19.png"
+            },
+            {
+              "nombre": "Enfriamiento y Estiramiento",
+              "duracion": 5,
+              "serie":1,
+              "repeticion": 0,
+              "descanso": 30,
+              "imagen": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F19401101.png&w=640&q=10"
+            }
+          ]
+        },
+        {
+          "dia": 29,
+          "actividad": "Descansar/meditación",
+          "duracion": "1 dia",
+          "ejercicios": [
+            {
+              "nombre": "Descansar",
+              "duracion": 0,
+              "serie":0,
+              "repeticion": 0,
+              "descanso": 0,
+              "imagen": "https://cdn.icon-icons.com/icons2/2237/PNG/512/bed_rest_sleep_sick_patient_bed_rest_icon_134759.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

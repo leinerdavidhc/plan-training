@@ -1,0 +1,24 @@
+---
+import Layout from "../layouts/Layout.astro";
+import "@/styles/globals.css";
+import trainingPlan from "../data/trainingPlan.json";
+import type { PlanEntrenamiento } from "../types/interfaces";
+import DayDetails from "../components/DayDetails";
+
+export async function getStaticPaths() {
+  const plan: PlanEntrenamiento = trainingPlan;
+
+  const paths = plan.semanas.flatMap((semana) =>
+    semana.dias.map((dia) => ({ params: { id: dia.dia.toString() } }))
+  );
+
+  return paths;
+}
+
+const { id } = Astro.params;
+
+---
+
+<Layout title="Plan de Entrenamiento" >
+  <DayDetails id={id} client:load/>
+</Layout>
